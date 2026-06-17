@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Send, Users, Bell, FileText, LogOut, CheckCircle2 } from 'lucide-react';
-import logo from './assets/logo.jpg';
+import logo from "./logo.jpg";
 
 const employees = [
   { id: 1, name: 'Аманжол', role: 'Инженер связи', online: true },
